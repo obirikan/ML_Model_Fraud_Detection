@@ -1,4 +1,5 @@
-# 🧾 Financial Transactions Dataset
+
+# 💳 Logistic Regression Fraud Detection 
 
 This dataset provides a small but representative sample of anonymized financial transactions intended for building and testing **fraud detection models**.
 
