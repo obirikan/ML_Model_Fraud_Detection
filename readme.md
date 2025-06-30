@@ -1,4 +1,4 @@
-# 💳 Logistic Regression Fraud Detection Project
+# 💳 Logistic Regression Fraud Detection 
 
 This project demonstrates how to use **Logistic Regression** to detect fraudulent transactions using the `transactions.csv` dataset.
 
