@@ -1,5 +1,5 @@
 
-# 💳 Logistic Regression Fraud Detection 
+# Logistic Regression Fraud Detection 
 
 This dataset provides a small but representative sample of anonymized financial transactions intended for building and testing **fraud detection models**.
 
@@ -16,7 +16,7 @@ It is suitable for:
 
 ---
 
-## 📦 Dataset Structure
+## Dataset Structure
 
 | Column Name     | Description                                                  |
 |------------------|--------------------------------------------------------------|
@@ -36,7 +36,7 @@ It is suitable for:
 
 ---
 
-## ⚠️ Class Imbalance Notice
+## Class Imbalance Notice
 
 > **Important:**  
 > This dataset is **highly imbalanced** — the number of fraudulent transactions (`isFraud = 1`) is much lower compared to non-fraudulent ones.  
@@ -48,7 +48,7 @@ To improve results, consider:
 
 ---
 
-## 💡 Inspiration
+## Inspiration
 
 This dataset can help you explore:
 - How fraud differs from legitimate behavior
